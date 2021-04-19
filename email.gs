@@ -1,4 +1,5 @@
 //Not the final code from the email component, missing ui and functionality with Spreadsheet
+//Need to figure out how to read info from a spreadsheet created from speadsheet.ejs
 
 var EMAIL_SENT = 'EMAIL_SENT';
 
