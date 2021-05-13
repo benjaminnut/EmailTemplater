@@ -1,14 +1,13 @@
 # EmailTemplater
-Email templater web application for CS 382 class
+Email templater web application for CS 382 Web Dev class
 
 
 Will be built using: 
-Javascript (Google Appscript),
-EJS,
-and Express
+Javascript (Google Appscript)
 
 
-Will pull from the Google Gmail and Spreadsheet APIs to create a standalone client
+Designed to be an addon for Google Sheets
+More changes for dynamic data input need to be made
 
 
 
